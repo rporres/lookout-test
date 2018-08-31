@@ -1,2 +1,2 @@
 # lookout-test
-To test lookout API calls
+To test lookout API caalls

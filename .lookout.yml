@@ -1,0 +1,5 @@
+analyzers:
+  - name: Dummy
+    settings:
+      valA: 1
+      valB: 2
